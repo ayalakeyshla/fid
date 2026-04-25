@@ -1,0 +1,83 @@
+
+
+.home {
+       body {
+    margin: 0 10%;
+    font: 1.25rem/1.75rem sans-serif;
+    color: floralwhite;
+    background-color: darkslategray;
+  }
+  header {
+    background-color: #faf2e4;
+    text-align: center;
+    padding: 12px;
+    margin-bottom: 36px;
+  } 
+  h1 {
+    color: darkslategray;
+    font: bold 1.75rem sans-serif;
+    text-transform: uppercase; 
+    letter-spacing: 5px;
+    margin: 0;
+  }
+  h2 {
+    color: orange;
+    font: bold 1.25rem sans-serif;
+    text-align: center;
+  }
+  footer {  
+    border-top: 1px solid turquoise;
+    text-align: center;
+    margin-top: 2em;
+    } 
+  footer img {
+    width: 40px;
+    height: 40px;
+} 
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+    margin: 0 15px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+  }
+}
+.font {
+  body {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+}
+}
+.kitchen {
+    body {
+	margin: 0 20%;
+	font: 1em/1.5em sans-serif;
+}
+h1 {
+	font: italic bold 2rem Futura, sans-serif; 
+  color: darkolivegreen; 
+  margin-top: 2rem;
+}
+h2 {
+	font-size: 1.25em;
+
+}
+img {
+	width: 100%;
+}
+img.icon {
+  width: 80px;
+  height: 20px;
+  margin-right: 1em;
+}
+}
